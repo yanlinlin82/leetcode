@@ -25,8 +25,8 @@ public:
 			int max = (p2 == r.end() ? v : p2->second.second);
 
 			r[v] = make_pair(min, max);
-			if (min < v) r[min] = make_pair(min, max);
-			if (max > v) r[max] = make_pair(min, max);
+			if (min < v) r[min] = r[v];
+			if (max > v) r[max] = r[v];
 
 			int range = max - min + 1;
 			if (longest < range) {
