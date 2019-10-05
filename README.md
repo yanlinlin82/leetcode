@@ -12,4 +12,5 @@
 | 6 | 中等 | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [191004-1.cpp](00006_zigzag-conversion/191004-1.cpp) | 8 ms | 9.9 MB | [97.93%](https://leetcode-cn.com/submissions/detail/32021439/) |
 | 7 | 简单 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [191005-1.cpp](00007_reverse-integer/191005-1.cpp) | 4 ms | 8.2 MB | [86.49%](https://leetcode-cn.com/submissions/detail/32049490/) |
 | 8 | 中等 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [191005-1.cpp](00008_string-to-integer-atoi/191005-1.cpp) | 4 ms | 8.3 MB | [93.74%](https://leetcode-cn.com/submissions/detail/32077883/) |
+| 9 | 简单 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [191006-1.cpp](00009_palindrome-number/191006-1.cpp) | 8 ms | 8.1 MB | [96.62%](https://leetcode-cn.com/submissions/detail/32113548/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
