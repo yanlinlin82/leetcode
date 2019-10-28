@@ -24,4 +24,5 @@
 | 18 | 中等 | [四数之和](https://leetcode-cn.com/problems/4sum/) | [191018-1.cpp](00018_4sum/191018-1.cpp) | 1252 ms | 9.2 MB | [5.00%](https://leetcode-cn.com/submissions/detail/33476930/) |
 | 19 | 中等 | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [191019-1.cpp](00019_remove-nth-node-from-end-of-list/191019-1.cpp) | 4 ms | 8.5 MB | [97.28%](https://leetcode-cn.com/submissions/detail/33601770/) |
 | 20 | 简单 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [191025-1.cpp](00020_valid-parentheses/191025-1.cpp) | 4 ms | 8.3 MB | [76.70%](https://leetcode-cn.com/submissions/detail/34283286/) |
+| 21 | 简单 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [191028-1.cpp](00021_merge-two-sorted-lists/191028-1.cpp) | 8 ms | 8.8 MB | [96.63%](https://leetcode-cn.com/submissions/detail/34686113/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
