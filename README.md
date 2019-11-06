@@ -5,7 +5,7 @@
 | 编号 | 难度 | 题目 | 答案 | 执行用时 | 内存消耗 | 排名 |
 |:----:|:----:|:-----|:-----|---------:|---------:|-----:|
 | 1 | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [190930-4.cpp](00001_two-sum/190930-4.cpp) | 8 ms | 10 MB | [98.80%](https://leetcode-cn.com/submissions/detail/31766750/) |
-| 2 | 中等 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [190930-2.cpp](00002_add-two-numbers/190930-2.cpp) | 	24 ms | 10.2 MB | [98.24%](https://leetcode-cn.com/submissions/detail/31767696/) |
+| 2 | 中等 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [190930-2.cpp](00002_add-two-numbers/190930-2.cpp) | 24 ms | 10.2 MB | [98.24%](https://leetcode-cn.com/submissions/detail/31767696/) |
 | 3 | 中等 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [191001-1.cpp](00003_longest-substring-without-repeating-characters/191001-1.cpp) | 12 ms | 9 MB | [87.97%](https://leetcode-cn.com/submissions/detail/31776630/) |
 | 4 | 困难 | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [191003-2.cpp](00004_median-of-two-sorted-arrays/191003-2.cpp) | 20 ms | 9.4 MB | [91.87%](https://leetcode-cn.com/submissions/detail/31918248/) |
 | 5 | 中等 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [191003-2.cpp](00005_longest-palindromic-substring/191003-2.cpp) | 16 ms | 8.8 MB | [91.45%](https://leetcode-cn.com/submissions/detail/31956790/) |
@@ -25,5 +25,5 @@
 | 19 | 中等 | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [191019-1.cpp](00019_remove-nth-node-from-end-of-list/191019-1.cpp) | 4 ms | 8.5 MB | [97.28%](https://leetcode-cn.com/submissions/detail/33601770/) |
 | 20 | 简单 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [191025-1.cpp](00020_valid-parentheses/191025-1.cpp) | 4 ms | 8.3 MB | [76.70%](https://leetcode-cn.com/submissions/detail/34283286/) |
 | 21 | 简单 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [191028-1.cpp](00021_merge-two-sorted-lists/191028-1.cpp) | 8 ms | 8.8 MB | [96.63%](https://leetcode-cn.com/submissions/detail/34686113/) |
-| 22 | 中等 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [191104-1.cpp](00022_generate-parentheses/191104-1.cpp) | 8 ms | 17.1 MB | [ |82.69%](https://leetcode-cn.com/submissions/detail/35362589/) |
+| 22 | 中等 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [191104-1.cpp](00022_generate-parentheses/191104-1.cpp) | 8 ms | 17.1 MB | [82.69%](https://leetcode-cn.com/submissions/detail/35362589/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
