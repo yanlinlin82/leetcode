@@ -35,4 +35,5 @@
 | 29 | 中等 | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | [191118-1.cpp](00029_divide-two-integers/191118-1.cpp) | 4 ms | 8.1 MB | [87.18%](https://leetcode-cn.com/submissions/detail/37054861/) |
 | 30 | 困难 | [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [191119-1.cpp](00030_substring-with-concatenation-of-all-words/191119-1.cpp) | 1904 ms | 30 MB | [6.38%](https://leetcode-cn.com/submissions/detail/37175940/) |
 | 31 | 中等 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [191120-1.cpp](00031_next-permutation/191120-1.cpp) | 12 ms | 8.7 MB | [73.28%](https://leetcode-cn.com/submissions/detail/37327890/) |
+| 32 | 困难 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [191121-1.cpp](00032_longest-valid-parentheses/191121-1.cpp) | 12 ms | 9.4 MB | [42.79%](https://leetcode-cn.com/submissions/detail/37457502/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
