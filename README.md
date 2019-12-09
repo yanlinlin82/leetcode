@@ -41,4 +41,5 @@
 | 35 | 简单 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [191203-1.cpp](00035_search-insert-position/191203-1.cpp) | 8 ms | 8.7 MB | [70.69%](https://leetcode-cn.com/submissions/detail/38687381/) |
 | 36 | 中等 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [191208-1.cpp](00036_valid-sudoku/191208-1.cpp) | 4 ms | 9.4 MB | [99.97%](https://leetcode-cn.com/submissions/detail/39343183/) |
 | 37 | 困难 | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) | [191208-1.cpp](00037_sudoku-solver/191208-1.cpp) | 40 ms | 8.6 MB | [23.66%](https://leetcode-cn.com/submissions/detail/39348102/) |
+| 38 | 简单 | [报数](https://leetcode-cn.com/problems/count-and-say/) | [191209-1.cpp](00038_count-and-say/191209-1.cpp) | 4 ms | 9 MB | [90.22%](https://leetcode-cn.com/submissions/detail/39452320/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
