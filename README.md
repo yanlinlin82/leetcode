@@ -49,4 +49,5 @@
 | 43 | 中等 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [191217-1.cpp](00043_multiply-strings/191217-1.cpp) | 8 ms | 9.7 MB | [80.75%](https://leetcode-cn.com/submissions/detail/40348646/) |
 | 44 | 困难 | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | [191218-1.cpp](00044_wildcard-matching/191218-1.cpp) | 56 ms | 10.2 MB | [64.90%](https://leetcode-cn.com/submissions/detail/40476946/) |
 | 45 | 困难 | [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | [191223-1.cpp](00045_jump-game-ii/191223-1.cpp) | 1568 ms | 10.1 MB | [5.05%](https://leetcode-cn.com/submissions/detail/40905412/) |
+| 46 | 中等 | [全排列](https://leetcode-cn.com/problems/permutations/) | [191223-1.cpp](00046_permutations/191223-1.cpp) | 24 ms | 11.8 MB | [20.64%](https://leetcode-cn.com/submissions/detail/40905629/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
