@@ -51,4 +51,5 @@
 | 45 | 困难 | [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | [191223-1.cpp](00045_jump-game-ii/191223-1.cpp) | 1568 ms | 10.1 MB | [5.05%](https://leetcode-cn.com/submissions/detail/40905412/) |
 | 46 | 中等 | [全排列](https://leetcode-cn.com/problems/permutations/) | [191223-1.cpp](00046_permutations/191223-1.cpp) | 24 ms | 11.8 MB | [20.64%](https://leetcode-cn.com/submissions/detail/40905629/) |
 | 47 | 中等 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [191224-1.cpp](00047_permutations-ii/191224-1.cpp) | 944 ms | 151.2 MB | [5.05%](https://leetcode-cn.com/submissions/detail/41023428/) |
+| 48 | 中等 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [191224-1.cpp](00048_rotate-image/191224-1.cpp) | 8 ms | 8.9 MB | [59.36%](https://leetcode-cn.com/submissions/detail/41023784/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
