@@ -54,4 +54,5 @@
 | 48 | 中等 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [191224-1.cpp](00048_rotate-image/191224-1.cpp) | 8 ms | 8.9 MB | [59.36%](https://leetcode-cn.com/submissions/detail/41023784/) |
 | 49 | 中等 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [191225-1.cpp](00049_group-anagrams/191225-1.cpp) | 36 ms | 17.6 MB | [99.34%](https://leetcode-cn.com/submissions/detail/41132632/) |
 | 50 | 中等 | [Pow(x, n)  ](https://leetcode-cn.com/problems/powx-n/) | [191225-1.cpp](00050_powx-n/191225-1.cpp) | 0 ms | 9.2 MB | [100.00%](https://leetcode-cn.com/submissions/detail/41133624/) |
+| 51 | 困难 | [N皇后](https://leetcode-cn.com/problems/n-queens/) | [191230-1.cpp](00051_n-queens/191230-1.cpp) | 8 ms | 10.4 MB | [91.93%](https://leetcode-cn.com/submissions/detail/41676707/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
