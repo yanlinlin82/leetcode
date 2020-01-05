@@ -63,4 +63,5 @@
 | 57 | 困难 | [插入区间](https://leetcode-cn.com/problems/insert-interval/) | [200101-1.cpp](00057_insert-interval/200101-1.cpp) | 8 ms | 12.3 MB | [99.85%](https://leetcode-cn.com/submissions/detail/41914872/) |
 | 58 | 简单 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [200101-1.cpp](00058_length-of-last-word/200101-1.cpp) | 4 ms | 8.8 MB | [79.14%](https://leetcode-cn.com/submissions/detail/41915711/) |
 | 59 | 中等 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [200106-1.cpp](00059_spiral-matrix-ii/200106-1.cpp) | 4 ms | 8.7 MB | [92.79%](https://leetcode-cn.com/submissions/detail/42396567/) |
+| 60 | 中等 | [第k个排列](https://leetcode-cn.com/problems/permutation-sequence/) | [200106-1.cpp](00060_permutation-sequence/200106-1.cpp) | 100 ms | 8.2 MB | [21.30%](https://leetcode-cn.com/submissions/detail/42397982/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
