@@ -69,4 +69,6 @@
 | 63 | 中等 | [不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | [200107-1.cpp](00063_unique-paths-ii/200107-1.cpp) | 8 ms | 9.1 MB | [45.88%](https://leetcode-cn.com/submissions/detail/42532712/) |
 | 64 | 中等 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [200107-1.cpp](00064_minimum-path-sum/200107-1.cpp) | 8 ms | 10.4 MB | [89.43%](https://leetcode-cn.com/submissions/detail/42533083/) |
 | 65 | 困难 | [有效数字](https://leetcode-cn.com/problems/valid-number/) | [200108-1.cpp](00065_valid-number/200108-1.cpp) | 4 ms | 8.2 MB | [87.72%](https://leetcode-cn.com/submissions/detail/42667621/) |
+| 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [200108-1.cpp](00066_plus-one/200108-1.cpp) | 0 ms | 8.6 MB | [100.00%](https://leetcode-cn.com/submissions/detail/42668177/) |
+| 67 | 简单 | [二进制求和](https://leetcode-cn.com/problems/add-binary/) | [200108-1.cpp](00067_add-binary/200108-1.cpp) | 0 ms | 8.7 MB | [100.00%](https://leetcode-cn.com/submissions/detail/42668665/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
