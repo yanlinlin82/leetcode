@@ -79,4 +79,5 @@
 | 73 | 中等 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [200117-1.cpp](00073_set-matrix-zeroes/200117-1.cpp) | 16 ms | 11.5 MB | [100.00%](https://leetcode-cn.com/submissions/detail/43757444/) |
 | 74 | 中等 | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [200117-1.cpp](00074_search-a-2d-matrix/200117-1.cpp) | 8 ms | 10 MB | [88.98%](https://leetcode-cn.com/submissions/detail/43757476/) |
 | 75 | 中等 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [200117-1.cpp](00075_sort-colors/200117-1.cpp) | 4 ms | 8.8 MB | [88.24%](https://leetcode-cn.com/submissions/detail/43757569/) |
+| 76 | 困难 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [200121-2.cpp](00076_minimum-window-substring/200121-2.cpp) | 32 ms | 9.9 MB | [63.18%](https://leetcode-cn.com/submissions/detail/44178648/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
