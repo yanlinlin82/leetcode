@@ -89,4 +89,5 @@
 | 83 | 简单 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [200122-1.cpp](00083_remove-duplicates-from-sorted-list/200122-1.cpp) | 12 ms | 9.2 MB | [90.06%](https://leetcode-cn.com/submissions/detail/44302885/) |
 | 84 | 困难 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [200127-1.cpp](00084_largest-rectangle-in-histogram/200127-1.cpp) | 492 ms | 10.3 MB | [20.29%](https://leetcode-cn.com/submissions/detail/44588295/) |
 | 85 | 困难 | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | [200127-1.cpp](00085_maximal-rectangle/200127-1.cpp) | 40 ms | 10.7 MB | [33.95%](https://leetcode-cn.com/submissions/detail/44597536/) |
+| 86 | 中等 | [分隔链表](https://leetcode-cn.com/problems/partition-list/) | [200127-1.cpp](00086_partition-list/200127-1.cpp) | 4 ms | 8.8 MB | [97.67%](https://leetcode-cn.com/submissions/detail/44599734/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
