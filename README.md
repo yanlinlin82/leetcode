@@ -91,4 +91,5 @@
 | 85 | 困难 | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | [200127-1.cpp](00085_maximal-rectangle/200127-1.cpp) | 40 ms | 10.7 MB | [33.95%](https://leetcode-cn.com/submissions/detail/44597536/) |
 | 86 | 中等 | [分隔链表](https://leetcode-cn.com/problems/partition-list/) | [200127-1.cpp](00086_partition-list/200127-1.cpp) | 4 ms | 8.8 MB | [97.67%](https://leetcode-cn.com/submissions/detail/44599734/) |
 | 87 | 困难 | [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | [200128-1.cpp](00087_scramble-string/200128-1.cpp) | 4 ms | 8.4 MB | [97.87%](https://leetcode-cn.com/submissions/detail/44677541/) |
+| 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [200128-1.cpp](00088_merge-sorted-array/200128-1.cpp) | 4 ms | 8.8 MB | [92.24%](https://leetcode-cn.com/submissions/detail/44677609/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
