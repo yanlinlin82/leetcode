@@ -103,4 +103,5 @@
 | 97 | 困难 | [交错字符串](https://leetcode-cn.com/problems/interleaving-string/) | [200131-1.cpp](00097_interleaving-string/200131-1.cpp) | 1104 ms | 8.6 MB | [5.01%](https://leetcode-cn.com/submissions/detail/45163136/) |
 | 98 |  中等 | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [200201-1.cpp](00098_validate-binary-search-tree/200201-1.cpp) | 20 ms | 21.3 MB | [49.03%](https://leetcode-cn.com/submissions/detail/45164407/) |
 | 99 | 困难 | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) | [200201-1.cpp](00099_recover-binary-search-tree/200201-1.cpp) | 24 ms | 18.6 MB | [86.59%](https://leetcode-cn.com/submissions/detail/45164682/) |
+| 100 | 简单 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [200201-1.cpp](00100_same-tree/200201-1.cpp) | 0 ms | 10.2 MB | [100.00%](https://leetcode-cn.com/submissions/detail/45164769/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
