@@ -115,4 +115,5 @@
 | 109 | 中等 | [有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | [200204-1.cpp](00109_convert-sorted-list-to-binary-search-tree/200204-1.cpp) | 36 ms | 24.7 MB | [59.19%](https://leetcode-cn.com/submissions/detail/45705211/) |
 | 110 | 简单 | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [200204-1.cpp](00110_balanced-binary-tree/200204-1.cpp) | 16 ms | 17.7 MB | [73.15%](https://leetcode-cn.com/submissions/detail/45707306/) |
 | 111 | 简单 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [200204-1.cpp](00111_minimum-depth-of-binary-tree/200204-1.cpp) | 24 ms | 19.8 MB | [13.75%](https://leetcode-cn.com/submissions/detail/45709126/) |
+| 112 | 简单 | [路径总和](https://leetcode-cn.com/problems/path-sum/) | [200205-1.cpp](00112_path-sum/200205-1.cpp) | 16 ms | 20.1 MB | [62.22%](https://leetcode-cn.com/submissions/detail/45759151/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
