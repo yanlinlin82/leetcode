@@ -118,4 +118,5 @@
 | 112 | 简单 | [路径总和](https://leetcode-cn.com/problems/path-sum/) | [200205-1.cpp](00112_path-sum/200205-1.cpp) | 16 ms | 20.1 MB | [62.22%](https://leetcode-cn.com/submissions/detail/45759151/) |
 | 113 | 中等 | [路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [200205-1.cpp](00113_path-sum-ii/200205-1.cpp) | 24 ms | 33.3 MB | [43.71%](https://leetcode-cn.com/submissions/detail/45759466/) |
 | 114 | 中等 | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [200205-1.cpp](00114_flatten-binary-tree-to-linked-list/200205-1.cpp) | 4 ms | 9.9 MB | [96.03%](https://leetcode-cn.com/submissions/detail/45759661/) |
+| 115 | 困难 | [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | [200206-1.cpp](00115_distinct-subsequences/200206-1.cpp) | 8 ms | 9.4 MB | [85.41%](https://leetcode-cn.com/submissions/detail/45908211/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
