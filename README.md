@@ -125,4 +125,5 @@
 | 119 | 简单 | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [200207-1.cpp](00119_pascals-triangle-ii/200207-1.cpp) | 0 ms | 9.1 MB | [100.00%](https://leetcode-cn.com/submissions/detail/46058660/) |
 | 120 | 中等 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | [200207-1.cpp](00120_triangle/200207-1.cpp) | 4 ms | 10.7 MB | [96.41%](https://leetcode-cn.com/submissions/detail/46059125/) |
 | 121 | 简单 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [200207-1.cpp](00121_best-time-to-buy-and-sell-stock/200207-1.cpp) | 1068 ms | 9.6 MB | [16.18%](https://leetcode-cn.com/submissions/detail/46059292/) |
+| 122 | 简单 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [200208-1.cpp](00122_best-time-to-buy-and-sell-stock-ii/200208-1.cpp) | 12 ms | 9.8 MB | [25.46%](https://leetcode-cn.com/submissions/detail/46192899/) |
 | 128 | 困难 | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [190930-2.cpp](00128_longest-consecutive-sequence/190930-2.cpp) | 12 ms | 10.3 MB | [92.43%](https://leetcode-cn.com/submissions/detail/31769076/) |
