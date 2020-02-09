@@ -5,4 +5,4 @@ if [ -z "$1" ]; then
 	exit 1
 fi
 
-g++ $1 && ./a.out && rm -f ./a.out
+g++ -std=c++17 $1 && ./a.out && rm -f ./a.out
