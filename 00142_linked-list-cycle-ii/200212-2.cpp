@@ -1,4 +1,5 @@
 // https://leetcode-cn.com/problems/linked-list-cycle-ii/
+// 进阶：使用常量内存（快慢指针法）
 #include <cstdio>
 #include <unordered_set>
 using namespace std;
@@ -12,14 +13,21 @@ struct ListNode {
 class Solution {
 public:
 	ListNode *detectCycle(ListNode *head) {
-		unordered_set<ListNode*> s;
-		for (ListNode* p = head; p; p = p->next) {
-			if (s.find(p) != s.end()) {
-				return p;
-			}
-			s.insert(p);
+		if (!head || !head->next) return NULL;
+		ListNode* p = head;
+		ListNode* q = head->next;
+		while (p != q) {
+			p = (p ? p->next : NULL);
+			q = (q ? q->next : NULL); q = (q ? q->next : NULL);
 		}
-		return NULL;
+		if (!p) return NULL;
+		ListNode* tail = p;
+		for (p = head; p != tail; p = p->next) {
+			for (q = tail->next; q != tail; q = q->next) {
+				if (q == p) return p;
+			}
+		}
+		return p;
 	}
 };
 
