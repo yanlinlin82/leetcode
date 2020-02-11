@@ -144,7 +144,7 @@
 | 138 | 中等 | [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [200211-1.cpp](00138_copy-list-with-random-pointer/200211-1.cpp) | 16 ms | 13.7 MB | [69.83%](https://leetcode-cn.com/submissions/detail/46655381/) |
 | 139 | 中等 | [单词拆分](https://leetcode-cn.com/problems/word-break/) | [200211-1.cpp](00139_word-break/200211-1.cpp) | 8 ms | 12.7 MB | [0.8308](https://leetcode-cn.com/submissions/detail/46656720/) |
 | 140 | 困难 | [单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/) | [200211-2.cpp](00140_word-break-ii/200211-2.cpp) | 12 ms | 16.7 MB | [0.8653](https://leetcode-cn.com/submissions/detail/46657021/) |
-| 141 | 简单 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [200212-1.cpp](00141_linked-list-cycle/200212-1.cpp) | 16 ms | 12.2 MB | [0.5297](https://leetcode-cn.com/submissions/detail/46813806/) |
+| 141 | 简单 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [200212-2.cpp](00141_linked-list-cycle/200212-2.cpp) | 8 ms | 10 MB | [0.9782](https://leetcode-cn.com/submissions/detail/46816144/) |
 | 142 | 中等 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [200212-1.cpp](00142_linked-list-cycle-ii/200212-1.cpp) | 12 ms | 12.1 MB | [0.8448](https://leetcode-cn.com/submissions/detail/46814425/) |
 | 143 | 中等 | [重排链表](https://leetcode-cn.com/problems/reorder-list/) | [200212-1.cpp](00143_reorder-list/200212-1.cpp) | 32 ms | 13.4 MB | [0.8975](https://leetcode-cn.com/submissions/detail/46815393/) |
 | 144 | 中等 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [200212-1.cpp](00144_binary-tree-preorder-traversal/200212-1.cpp) | 0 ms | 9.8 MB | [1](https://leetcode-cn.com/submissions/detail/46815715/) |
