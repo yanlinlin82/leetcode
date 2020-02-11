@@ -147,3 +147,4 @@
 | 141 | 简单 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [200212-1.cpp](00141_linked-list-cycle/200212-1.cpp) | 16 ms | 12.2 MB | [0.5297](https://leetcode-cn.com/submissions/detail/46813806/) |
 | 142 | 中等 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [200212-1.cpp](00142_linked-list-cycle-ii/200212-1.cpp) | 12 ms | 12.1 MB | [0.8448](https://leetcode-cn.com/submissions/detail/46814425/) |
 | 143 | 中等 | [重排链表](https://leetcode-cn.com/problems/reorder-list/) | [200212-1.cpp](00143_reorder-list/200212-1.cpp) | 32 ms | 13.4 MB | [0.8975](https://leetcode-cn.com/submissions/detail/46815393/) |
+| 144 | 中等 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [200212-1.cpp](00144_binary-tree-preorder-traversal/200212-1.cpp) | 0 ms | 9.8 MB | [1](https://leetcode-cn.com/submissions/detail/46815715/) |
