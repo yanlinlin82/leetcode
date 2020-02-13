@@ -151,3 +151,4 @@
 | 145 | 困难 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [200212-2.cpp](00145_binary-tree-postorder-traversal/200212-2.cpp) | 4 ms | 9.3 MB | [72.52%](https://leetcode-cn.com/submissions/detail/46818145/) |
 | 146 | 中等 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [200213-1.cpp](00146_lru-cache/200213-1.cpp) | 104 ms | 38.2 MB | [97.49%](https://leetcode-cn.com/submissions/detail/47108055/) |
 | 147 | 中等 | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | [200213-1.cpp](00147_insertion-sort-list/200213-1.cpp) | 60 ms | 9.5 MB | [29.00%](https://leetcode-cn.com/submissions/detail/47112943/) |
+| 148 | 中等 | [排序链表](https://leetcode-cn.com/problems/sort-list/) | [200213-1.cpp](00148_sort-list/200213-1.cpp) | 40 ms | 12 MB | [83.06%](https://leetcode-cn.com/submissions/detail/47117361/) |
