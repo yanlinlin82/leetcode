@@ -158,3 +158,4 @@
 | 152 | 中等 | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/) | [200214-2.cpp](00152_maximum-product-subarray/200214-2.cpp) | 40 ms | 9.3 MB | [6.14%](https://leetcode-cn.com/submissions/detail/47170276/) |
 | 153 | 中等 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [200214-1.cpp](00153_find-minimum-in-rotated-sorted-array/200214-1.cpp) | 8 ms | 9.1 MB | [41.79%](https://leetcode-cn.com/submissions/detail/47170472/) |
 | 154 | 困难 | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [200214-1.cpp](00154_find-minimum-in-rotated-sorted-array-ii/200214-1.cpp) | 8 ms | 9.2 MB | [71.91%](https://leetcode-cn.com/submissions/detail/47170563/) |
+| 155 | 简单 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [200214-1.cpp](00155_min-stack/200214-1.cpp) | 128 ms | 17 MB | [9.64%](https://leetcode-cn.com/submissions/detail/47171086/) |
