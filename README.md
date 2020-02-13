@@ -155,3 +155,4 @@
 | 149 | 困难 | [直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/) | [200213-1.cpp](00149_max-points-on-a-line/200213-1.cpp) | 12 ms | 9.3 MB | [97.23%](https://leetcode-cn.com/submissions/detail/47126062/) |
 | 150 | 中等 | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [200213-1.cpp](00150_evaluate-reverse-polish-notation/200213-1.cpp) | 16 ms | 11.8 MB | [74.69%](https://leetcode-cn.com/submissions/detail/47127755/) |
 | 151 | 中等 | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [200214-1.cpp](00151_reverse-words-in-a-string/200214-1.cpp) | 28 ms | 122.5 MB | [15.27%](https://leetcode-cn.com/submissions/detail/47169353/) |
+| 152 | 中等 | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/) | [200214-2.cpp](00152_maximum-product-subarray/200214-2.cpp) | 40 ms | 9.3 MB | [6.14%](https://leetcode-cn.com/submissions/detail/47170276/) |
