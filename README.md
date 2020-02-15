@@ -161,3 +161,4 @@
 | 155 | 简单 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [200214-1.cpp](00155_min-stack/200214-1.cpp) | 128 ms | 17 MB | [9.64%](https://leetcode-cn.com/submissions/detail/47171086/) |
 | 160 | 简单 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [200215-2.cpp](00160_intersection-of-two-linked-lists/200215-2.cpp) | 72 ms | 19.9 MB | [35.19%](https://leetcode-cn.com/submissions/detail/47457108/) |
 | 162 | 中等 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [200215-1.cpp](00162_find-peak-element/200215-1.cpp) | 8 ms | 9 MB | [55.03%](https://leetcode-cn.com/submissions/detail/47462849/) |
+| 164 | 困难 | [最大间距](https://leetcode-cn.com/problems/maximum-gap/) | [200215-3.cpp](00164_maximum-gap/200215-3.cpp) | 4 ms | 9.8 MB | [99.02%](https://leetcode-cn.com/submissions/detail/47514034/) |
