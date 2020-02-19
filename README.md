@@ -167,3 +167,4 @@
 | 167 | 简单 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [200220-1.cpp](00167_two-sum-ii-input-array-is-sorted/200220-1.cpp) | 220 ms | 9.6 MB | [5.17%](https://leetcode-cn.com/submissions/detail/48277512/) |
 | 168 | 简单 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [200220-1.cpp](00168_excel-sheet-column-title/200220-1.cpp) | 4 ms | 8.2 MB | [59.97%](https://leetcode-cn.com/submissions/detail/48278296/) |
 | 169 | 简单 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [200220-1.cpp](00169_majority-element/200220-1.cpp) | 20 ms | 11.3 MB | [79.09%](https://leetcode-cn.com/submissions/detail/48278388/) |
+| 171 | 简单 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [200220-1.cpp](00171_excel-sheet-column-number/200220-1.cpp) | 4 ms | 8.3 MB | [79.18%](https://leetcode-cn.com/submissions/detail/48278416/) |
