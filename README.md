@@ -166,3 +166,4 @@
 | 166 | 中等 | [分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/) | [200220-1.cpp](00166_fraction-to-recurring-decimal/200220-1.cpp) | 4 ms | 8.8 MB | [74.73%](https://leetcode-cn.com/submissions/detail/48277400/) |
 | 167 | 简单 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [200220-1.cpp](00167_two-sum-ii-input-array-is-sorted/200220-1.cpp) | 220 ms | 9.6 MB | [5.17%](https://leetcode-cn.com/submissions/detail/48277512/) |
 | 168 | 简单 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [200220-1.cpp](00168_excel-sheet-column-title/200220-1.cpp) | 4 ms | 8.2 MB | [59.97%](https://leetcode-cn.com/submissions/detail/48278296/) |
+| 169 | 简单 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [200220-1.cpp](00169_majority-element/200220-1.cpp) | 20 ms | 11.3 MB | [79.09%](https://leetcode-cn.com/submissions/detail/48278388/) |
