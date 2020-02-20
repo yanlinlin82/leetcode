@@ -170,3 +170,4 @@
 | 171 | 简单 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [200220-1.cpp](00171_excel-sheet-column-number/200220-1.cpp) | 4 ms | 8.3 MB | [79.18%](https://leetcode-cn.com/submissions/detail/48278416/) |
 | 172 | 简单 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [200221-2.cpp](00172_factorial-trailing-zeroes/200221-2.cpp) | 0 ms | 8.4 MB | [100.00%](https://leetcode-cn.com/submissions/detail/48464679/) |
 | 173 | 中等 | [二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [200221-1.cpp](00173_binary-search-tree-iterator/200221-1.cpp) | 80 ms | 25.9 MB | [21.34%](https://leetcode-cn.com/submissions/detail/48464721/) |
+| 174 | 困难 | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | [200221-1.cpp](00174_dungeon-game/200221-1.cpp) | 8 ms | 10.2 MB | [79.51%](https://leetcode-cn.com/submissions/detail/48466281/) |
