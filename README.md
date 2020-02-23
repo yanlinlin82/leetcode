@@ -172,4 +172,4 @@
 | 173 | 中等 | [二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [200221-1.cpp](00173_binary-search-tree-iterator/200221-1.cpp) | 80 ms | 25.9 MB | [21.34%](https://leetcode-cn.com/submissions/detail/48464721/) |
 | 174 | 困难 | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | [200221-1.cpp](00174_dungeon-game/200221-1.cpp) | 8 ms | 10.2 MB | [79.51%](https://leetcode-cn.com/submissions/detail/48466281/) |
 | 175 | 简单 | [组合两个表](https://leetcode-cn.com/problems/combine-two-tables/) | [200221-1.sql](00175_combine-two-tables/200221-1.sql) | 167 ms | 0 MB | [86.70%](https://leetcode-cn.com/submissions/detail/49076028/) |
-| 176 | 简单 | [第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | [200224-1.sql](00176_second-highest-salary/200224-1.sql) | 111 ms | 0 MB | [67.54%](https://leetcode-cn.com/submissions/detail/49076446/) |
+| 176 | 简单 | [第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | [200224-3.sql](00176_second-highest-salary/200224-3.sql) | 110 ms | 0 MB | [75.44%](https://leetcode-cn.com/submissions/detail/49077190/) |
