@@ -1,3 +1,4 @@
+# https://leetcode-cn.com/problems/second-highest-salary/
 # Write your MySQL query statement below
 select SecondHighestSalary
 from (select 2 as id) as a
