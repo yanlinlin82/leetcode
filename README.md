@@ -175,3 +175,4 @@
 | 176 | 简单 | [第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | [200224-3.sql](00176_second-highest-salary/200224-3.sql) | 110 ms | 0 MB | [75.44%](https://leetcode-cn.com/submissions/detail/49077190/) |
 | 177 | 中等 | [第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/) | [200224-1.sql](00177_nth-highest-salary/200224-1.sql) | 147 ms | 0 MB | [58.50%](https://leetcode-cn.com/submissions/detail/49077380/) |
 | 178 | 中等 | [分数排名](https://leetcode-cn.com/problems/rank-scores/) | [200224-1.sql](00178_rank-scores/200224-1.sql) | 135 ms | 0 MB | [98.02%](https://leetcode-cn.com/submissions/detail/49077510/) |
+| 179 | 中等 | [最大数](https://leetcode-cn.com/problems/largest-number/) | [200224-1.cpp](00179_largest-number/200224-1.cpp) | 0 ms | 13.7 MB | [100.00%](https://leetcode-cn.com/submissions/detail/49077911/) |
