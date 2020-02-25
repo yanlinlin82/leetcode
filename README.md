@@ -180,3 +180,4 @@
 | 181 | 简单 | [超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [200226-1.sql](00181_employees-earning-more-than-their-managers/200226-1.sql) | 261 ms | 0 MB | [76.52%](https://leetcode-cn.com/submissions/detail/49483165/) |
 | 182 | 简单 | [查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/) | [200226-1.sql](00182_duplicate-emails/200226-1.sql) | 150 ms | 0 MB | [71.62%](https://leetcode-cn.com/submissions/detail/49483215/) |
 | 183 |  简单 | [从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/) | [200226-1.sql](00183_customers-who-never-order/200226-1.sql) | 183 ms | 0 MB | [87.05%](https://leetcode-cn.com/submissions/detail/49483246/) |
+| 184 | 中等 | [部门工资最高的员工](https://leetcode-cn.com/problems/department-highest-salary/) | [200226-1.sql](00184_department-highest-salary/200226-1.sql) | 225 ms | 0 MB | [81.73%](https://leetcode-cn.com/submissions/detail/49483380/) |
