@@ -178,3 +178,4 @@
 | 179 | 中等 | [最大数](https://leetcode-cn.com/problems/largest-number/) | [200224-1.cpp](00179_largest-number/200224-1.cpp) | 0 ms | 13.7 MB | [100.00%](https://leetcode-cn.com/submissions/detail/49077911/) |
 | 180 | 中等 | [连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/) | [200224-2.sql](00180_consecutive-numbers/200224-2.sql) | 291 ms | 0 MB | [49.87%](https://leetcode-cn.com/submissions/detail/49078278/) |
 | 181 | 简单 | [超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [200226-1.sql](00181_employees-earning-more-than-their-managers/200226-1.sql) | 261 ms | 0 MB | [76.52%](https://leetcode-cn.com/submissions/detail/49483165/) |
+| 182 | 简单 | [查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/) | [200226-1.sql](00182_duplicate-emails/200226-1.sql) | 150 ms | 0 MB | [71.62%](https://leetcode-cn.com/submissions/detail/49483215/) |
