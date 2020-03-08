@@ -184,3 +184,4 @@
 | 185 | 困难 | [部门工资前三高的所有员工](https://leetcode-cn.com/problems/department-top-three-salaries/) | [200226-1.sql](00185_department-top-three-salaries/200226-1.sql) | 448 ms | 0 MB | [73.08%](https://leetcode-cn.com/submissions/detail/49498719/) |
 | 187 | 中等 | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) | [200227-1.cpp](00187_repeated-dna-sequences/200227-1.cpp) | 116 ms | 24.8 MB | [35.91%](https://leetcode-cn.com/submissions/detail/49787908/) |
 | 188 | 困难 | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | [200306-2.cpp](00188_best-time-to-buy-and-sell-stock-iv/200306-2.cpp) | 1556 ms | 14.4 MB | [5.09%](https://leetcode-cn.com/submissions/detail/51572168/) |
+| 189 | 简单 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [200308-1.cpp](00189_rotate-array/200308-1.cpp) | 12 ms | 12.3 MB | [46.47%](https://leetcode-cn.com/submissions/detail/52047964/) |
