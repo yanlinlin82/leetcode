@@ -194,3 +194,4 @@
 | 196 | 简单 | [删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/) | [200313-1.sql](00196_delete-duplicate-emails/200313-1.sql) | 731 ms | 0 MB | [58.97%](https://leetcode-cn.com/submissions/detail/53369717/) |
 | 197 | 简单 | [上升的温度](https://leetcode-cn.com/problems/rising-temperature/) | [200313-1.sql](00197_rising-temperature/200313-1.sql) | 490 ms | 0 MB | [18.44%](https://leetcode-cn.com/submissions/detail/53371419/) |
 | 198 | 简单 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [200313-1.cpp](00198_house-robber/200313-1.cpp) | 4 ms | 9.6 MB | [67.73%](https://leetcode-cn.com/submissions/detail/53374072/) |
+| 199 | 中等 | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [200313-1.cpp](00199_binary-tree-right-side-view/200313-1.cpp) | 8 ms | 13.6 MB | [43.99%](https://leetcode-cn.com/submissions/detail/53376164/) |
