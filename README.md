@@ -190,3 +190,4 @@
 | 192 | 中等 | [统计词频](https://leetcode-cn.com/problems/word-frequency/) | [200313-1.sh](00192_word-frequency/200313-1.sh) | 4 ms | 3.3 MB | [70.77%](https://leetcode-cn.com/submissions/detail/53362288/) |
 | 193 | 简单 | [有效电话号码](https://leetcode-cn.com/problems/valid-phone-numbers/) | [200313-1.sh](00193_valid-phone-numbers/200313-1.sh) | 0 ms | 3.1 MB | [100.00%](https://leetcode-cn.com/submissions/detail/53363242/) |
 | 194 | 中等 | [转置文件](https://leetcode-cn.com/problems/transpose-file/) | [200313-1.sh](00194_transpose-file/200313-1.sh) | 8 ms | 3.6 MB | [87.10%](https://leetcode-cn.com/submissions/detail/53364598/) |
+| 195 | 简单 | [第十行](https://leetcode-cn.com/problems/tenth-line/) | [200313-1.sh](00195_tenth-line/200313-1.sh) | 0 ms | 3.8 MB | [100.00%](https://leetcode-cn.com/submissions/detail/53365205/) |
