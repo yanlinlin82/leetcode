@@ -187,3 +187,4 @@
 | 189 | 简单 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [200308-1.cpp](00189_rotate-array/200308-1.cpp) | 12 ms | 12.3 MB | [46.47%](https://leetcode-cn.com/submissions/detail/52047964/) |
 | 190 | 简单 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | [200308-1.cpp](00190_reverse-bits/200308-1.cpp) | 4 ms | 8.2 MB | [81.88%](https://leetcode-cn.com/submissions/detail/52050003/) |
 | 191 | 简单 | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | [200308-1.cpp](00191_number-of-1-bits/200308-1.cpp) | 8 ms | 8.3 MB | [29.45%](https://leetcode-cn.com/submissions/detail/52051284/) |
+| 192 | 中等 | [统计词频](https://leetcode-cn.com/problems/word-frequency/) | [200313-1.sh](00192_word-frequency/200313-1.sh) | 4 ms | 3.3 MB | [70.77%](https://leetcode-cn.com/submissions/detail/53362288/) |
