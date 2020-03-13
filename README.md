@@ -192,3 +192,4 @@
 | 194 | 中等 | [转置文件](https://leetcode-cn.com/problems/transpose-file/) | [200313-1.sh](00194_transpose-file/200313-1.sh) | 8 ms | 3.6 MB | [87.10%](https://leetcode-cn.com/submissions/detail/53364598/) |
 | 195 | 简单 | [第十行](https://leetcode-cn.com/problems/tenth-line/) | [200313-1.sh](00195_tenth-line/200313-1.sh) | 0 ms | 3.8 MB | [100.00%](https://leetcode-cn.com/submissions/detail/53365205/) |
 | 196 | 简单 | [删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/) | [200313-1.sql](00196_delete-duplicate-emails/200313-1.sql) | 731 ms | 0 MB | [58.97%](https://leetcode-cn.com/submissions/detail/53369717/) |
+| 197 | 简单 | [上升的温度](https://leetcode-cn.com/problems/rising-temperature/) | [200313-1.sql](00197_rising-temperature/200313-1.sql) | 490 ms | 0 MB | [18.44%](https://leetcode-cn.com/submissions/detail/53371419/) |
