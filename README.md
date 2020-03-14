@@ -197,3 +197,4 @@
 | 199 | 中等 | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [200313-1.cpp](00199_binary-tree-right-side-view/200313-1.cpp) | 8 ms | 13.6 MB | [43.99%](https://leetcode-cn.com/submissions/detail/53376164/) |
 | 200 | 中等 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [200314-2.cpp](00200_number-of-islands/200314-2.cpp) | 48 ms | 17 MB | [5.54%](https://leetcode-cn.com/submissions/detail/53677799/) |
 | 201 | 中等 | [数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | [200314-1.cpp](00201_bitwise-and-of-numbers-range/200314-1.cpp) | 16 ms | 7.3 MB | [57.75%](https://leetcode-cn.com/submissions/detail/53685450/) |
+| 202 | 简单 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | [200314-1.cpp](00202_happy-number/200314-1.cpp) | 8 ms | 7.8 MB | [25.35%](https://leetcode-cn.com/submissions/detail/53689093/) |
