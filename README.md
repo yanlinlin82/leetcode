@@ -199,3 +199,4 @@
 | 201 | 中等 | [数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | [200314-1.cpp](00201_bitwise-and-of-numbers-range/200314-1.cpp) | 16 ms | 7.3 MB | [57.75%](https://leetcode-cn.com/submissions/detail/53685450/) |
 | 202 | 简单 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | [200314-1.cpp](00202_happy-number/200314-1.cpp) | 8 ms | 7.8 MB | [25.35%](https://leetcode-cn.com/submissions/detail/53689093/) |
 | 203 | 简单 | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [200317-1.cpp](00203_remove-linked-list-elements/200317-1.cpp) | 24 ms | 15.4 MB | [68.40%](https://leetcode-cn.com/submissions/detail/54392137/) |
+| 204 | 简单 | [计数质数](https://leetcode-cn.com/problems/count-primes/) | [200317-1.cpp](00204_count-primes/200317-1.cpp) | 116 ms | 7.8 MB | [42.94%](https://leetcode-cn.com/submissions/detail/54411210/) |
