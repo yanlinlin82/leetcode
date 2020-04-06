@@ -214,3 +214,4 @@
 | 215 | 中等 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [200401-1.cpp](00215_kth-largest-element-in-an-array/200401-1.cpp) | 20 ms | 10 MB | [47.17%](https://leetcode-cn.com/submissions/detail/59029964/) | 使用STL |
 | 215 | 中等 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [200401-2.cpp](00215_kth-largest-element-in-an-array/200401-2.cpp) | 32 ms | 9.6 MB | [31.70%](https://leetcode-cn.com/submissions/detail/59050128/) | 自己实现qselect |
 | 216 | 中等 | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | [200406-1.cpp](00216_combination-sum-iii/200406-1.cpp) | 4 ms | 6.8 MB | [65.53%](https://leetcode-cn.com/submissions/detail/60314768/) |  |
+| 217 | 简单 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [200406-1.cpp](00217_contains-duplicate/200406-1.cpp) | 64 ms | 19.5 MB | [34.98%](https://leetcode-cn.com/submissions/detail/60316509/) |  |
