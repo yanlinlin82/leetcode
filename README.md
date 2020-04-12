@@ -216,3 +216,4 @@
 | 216 | 中等 | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | [200406-1.cpp](00216_combination-sum-iii/200406-1.cpp) | 4 ms | 6.8 MB | [65.53%](https://leetcode-cn.com/submissions/detail/60314768/) |  |
 | 217 | 简单 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [200406-1.cpp](00217_contains-duplicate/200406-1.cpp) | 64 ms | 19.5 MB | [34.98%](https://leetcode-cn.com/submissions/detail/60316509/) |  |
 | 218 | 困难 | [天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/) | [200412-1.cpp](00218_the-skyline-problem/200412-1.cpp) | 76 ms | 15.3 MB | [19.46%](https://leetcode-cn.com/submissions/detail/62237034/) |  |
+| 219 | 简单 | [存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [200413-1.cpp](00219_contains-duplicate-ii/200413-1.cpp) | 56 ms | 16.2 MB | [33.60%](https://leetcode-cn.com/submissions/detail/62237892/) |  |
