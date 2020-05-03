@@ -222,3 +222,4 @@
 | 222 | 中等 | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | [200425-1.cpp](00222_count-complete-tree-nodes/200425-1.cpp) | 84 ms | 31 MB | [5.11%](https://leetcode-cn.com/submissions/detail/65730908/) |  |
 | 223 | 中等 | [矩形面积](https://leetcode-cn.com/problems/rectangle-area/) | [200425-1.cpp](00223_rectangle-area/200425-1.cpp) | 12 ms | 5.9 MB | [60.28%](https://leetcode-cn.com/submissions/detail/65732408/) |  |
 | 224 | 困难 | [基本计算器](https://leetcode-cn.com/problems/basic-calculator/) | [200425-1.cpp](00224_basic-calculator/200425-1.cpp) | 8 ms | 8 MB | [99.16%](https://leetcode-cn.com/submissions/detail/65737926/) |  |
+| 225 | 简单 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [200503-1.cpp](00225_implement-stack-using-queues/200503-1.cpp) | 0 ms | 6.8 MB | [100.00%](https://leetcode-cn.com/submissions/detail/67745616/) |  |
