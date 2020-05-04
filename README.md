@@ -228,3 +228,4 @@
 | 228 | 中等 | [汇总区间](https://leetcode-cn.com/problems/summary-ranges/) | [200503-1.cpp](00228_summary-ranges/200503-1.cpp) | 0 ms | 7.1 MB | [100.00%](https://leetcode-cn.com/submissions/detail/67803410/) |  |
 | 229 | 中等 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | [200503-1.cpp](00229_majority-element-ii/200503-1.cpp) | 48 ms | 15.4 MB | [7.49%](https://leetcode-cn.com/submissions/detail/67805669/) |  |
 | 230 | 中等 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [200504-1.cpp](00230_kth-smallest-element-in-a-bst/200504-1.cpp) | 32 ms | 24 MB | [43.57%](https://leetcode-cn.com/submissions/detail/67991708/) |  |
+| 231 | 简单 | [2的幂](https://leetcode-cn.com/problems/power-of-two/) | [200504-1.cpp](00231_power-of-two/200504-1.cpp) | 0 ms | 5.7 MB | [100.00%](https://leetcode-cn.com/submissions/detail/67992784/) |  |
