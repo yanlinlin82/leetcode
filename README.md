@@ -231,3 +231,4 @@
 | 231 | 简单 | [2的幂](https://leetcode-cn.com/problems/power-of-two/) | [200504-1.cpp](00231_power-of-two/200504-1.cpp) | 0 ms | 5.7 MB | [100.00%](https://leetcode-cn.com/submissions/detail/67992784/) |  |
 | 232 | 简单 | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [200510-1.cpp](00232_implement-queue-using-stacks/200510-1.cpp) | 0 ms | 6.9 MB | [100.00%](https://leetcode-cn.com/submissions/detail/69722139/) |  |
 | 234 | 简单 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [200517-1.cpp](00234_palindrome-linked-list/200517-1.cpp) | 28 ms | 14.9 MB | [67.09%](https://leetcode-cn.com/submissions/detail/71507619/) |  |
+| 235 | 简单 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [200517-1.cpp](00235_lowest-common-ancestor-of-a-binary-search-tree/200517-1.cpp) | 44 ms | 23.3 MB | [63.32%](https://leetcode-cn.com/submissions/detail/71512231/) |  |
