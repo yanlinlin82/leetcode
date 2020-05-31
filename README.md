@@ -236,3 +236,4 @@
 | 237 | 简单 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [200524-1.cpp](00237_delete-node-in-a-linked-list/200524-1.cpp) | 20 ms | 8 MB | [23.90%](https://leetcode-cn.com/submissions/detail/73189591/) |  |
 | 238 | 中等 | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [200524-2.cpp](00238_product-of-array-except-self/200524-2.cpp) | 24 ms | 16.1 MB | [43.33%](https://leetcode-cn.com/submissions/detail/73213054/) |  |
 | 240 | 中等 | [搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [200531-1.cpp](00240_search-a-2d-matrix-ii/200531-1.cpp) | 168 ms | 10.8 MB | [37.77%](https://leetcode-cn.com/submissions/detail/75074761/) |  |
+| 241 | 中等 | [为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/) | [200531-1.cpp](00241_different-ways-to-add-parentheses/200531-1.cpp) | 8 ms | 11.8 MB | [56.05%](https://leetcode-cn.com/submissions/detail/75089162/) |  |
