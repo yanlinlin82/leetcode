@@ -238,3 +238,4 @@
 | 240 | 中等 | [搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [200531-1.cpp](00240_search-a-2d-matrix-ii/200531-1.cpp) | 168 ms | 10.8 MB | [37.77%](https://leetcode-cn.com/submissions/detail/75074761/) |  |
 | 241 | 中等 | [为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/) | [200531-1.cpp](00241_different-ways-to-add-parentheses/200531-1.cpp) | 8 ms | 11.8 MB | [56.05%](https://leetcode-cn.com/submissions/detail/75089162/) |  |
 | 242 | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [200609-1.cpp](00242_valid-anagram/200609-1.cpp) | 8 ms | 7.3 MB | [92.66%](https://leetcode-cn.com/submissions/detail/77675882/) |  |
+| 257 | 简单 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [200609-1.cpp](00257_binary-tree-paths/200609-1.cpp) | 4 ms | 13.9 MB | [87.97%](https://leetcode-cn.com/submissions/detail/77682369/) |  |
