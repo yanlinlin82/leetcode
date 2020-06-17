@@ -242,3 +242,4 @@
 | 258 | 简单 | [各位相加](https://leetcode-cn.com/problems/add-digits/) | [200609-1.cpp](00258_add-digits/200609-1.cpp) | 0 ms | 5.9 MB | [100.00%](https://leetcode-cn.com/submissions/detail/77683344/) |  |
 | 260 | 中等 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | [200609-1.cpp](00260_single-number-iii/200609-1.cpp) | 32 ms | 11.8 MB | [9.67%](https://leetcode-cn.com/submissions/detail/77685185/) |  |
 | 262 | 困难 | [行程和用户](https://leetcode-cn.com/problems/trips-and-users/) | [200617-1.sql](00262_trips-and-users/200617-1.sql) | 288 ms | 0 MB | [43.06%](https://leetcode-cn.com/submissions/detail/79823761/) |  |
+| 263 | 简单 | [丑数](https://leetcode-cn.com/problems/ugly-number/) | [200617-1.cpp](00263_ugly-number/200617-1.cpp) | 0 ms | 5.8 MB | [100.00%](https://leetcode-cn.com/submissions/detail/79825689/) |  |
