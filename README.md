@@ -245,3 +245,4 @@
 | 263 | 简单 | [丑数](https://leetcode-cn.com/problems/ugly-number/) | [200617-1.cpp](00263_ugly-number/200617-1.cpp) | 0 ms | 5.8 MB | [100.00%](https://leetcode-cn.com/submissions/detail/79825689/) |  |
 | 264 | 中等 | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | [200617-1.cpp](00264_ugly-number-ii/200617-1.cpp) | 356 ms | 29.5 MB | [21.18%](https://leetcode-cn.com/submissions/detail/79828036/) |  |
 | 268 | 简单 | [缺失数字](https://leetcode-cn.com/problems/missing-number/) | [200620-1.cpp](00268_missing-number/200620-1.cpp) | 36 ms | 17.2 MB | [84.64%](https://leetcode-cn.com/submissions/detail/80641889/) |  |
+| 273 | 困难 | [整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) | [200621-2.cpp](00273_integer-to-english-words/200621-2.cpp) | 0 ms | 6.4 MB | [100.00%](https://leetcode-cn.com/submissions/detail/80677589/) |  |
