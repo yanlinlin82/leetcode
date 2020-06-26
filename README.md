@@ -248,3 +248,4 @@
 | 273 | 困难 | [整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) | [200621-2.cpp](00273_integer-to-english-words/200621-2.cpp) | 0 ms | 6.4 MB | [100.00%](https://leetcode-cn.com/submissions/detail/80677589/) |  |
 | 274 | 中等 | [H 指数](https://leetcode-cn.com/problems/h-index/) | [200621-1.cpp](00274_h-index/200621-1.cpp) | 4 ms | 8.9 MB | [89.97%](https://leetcode-cn.com/submissions/detail/80679028/) |  |
 | 275 | 中等 | [H指数 II](https://leetcode-cn.com/problems/h-index-ii/) | [200621-1.cpp](00275_h-index-ii/200621-1.cpp) | 40 ms | 17.9 MB | [68.90%](https://leetcode-cn.com/submissions/detail/80679098/) |  |
+| 278 | 简单 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | [200626-1.cpp](00278_first-bad-version/200626-1.cpp) | 4 ms | 6 MB | [8.20%](https://leetcode-cn.com/submissions/detail/82223037/) |  |
