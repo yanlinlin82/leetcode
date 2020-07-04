@@ -250,3 +250,4 @@
 | 275 | 中等 | [H指数 II](https://leetcode-cn.com/problems/h-index-ii/) | [200621-1.cpp](00275_h-index-ii/200621-1.cpp) | 40 ms | 17.9 MB | [68.90%](https://leetcode-cn.com/submissions/detail/80679098/) |  |
 | 278 | 简单 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | [200626-1.cpp](00278_first-bad-version/200626-1.cpp) | 4 ms | 6 MB | [8.20%](https://leetcode-cn.com/submissions/detail/82223037/) |  |
 | 279 | 中等 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | [200626-2.cpp](00279_perfect-squares/200626-2.cpp) | 200 ms | 9 MB | [67.13%](https://leetcode-cn.com/submissions/detail/82252981/) |  |
+| 282 | 困难 | [给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators/) | [200706-2.cpp](00282_expression-add-operators/200706-2.cpp) | - ms | - MB | [-](https://leetcode-cn.com/submissions/detail/-/) |  |
