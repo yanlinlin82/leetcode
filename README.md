@@ -253,3 +253,4 @@
 | 282 | 困难 | [给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators/) | [200704-2.cpp](00282_expression-add-operators/200704-2.cpp) | - ms | - MB | [-](https://leetcode-cn.com/submissions/detail/-/) |  |
 | 283 | 简单 | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | [200705-1.cpp](00283_move-zeroes/200705-1.cpp) | 8 ms | 8.9 MB | [90.90%](https://leetcode-cn.com/submissions/detail/84721762/) |  |
 | 284 | 中等 | [顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/) | [200705-1.cpp](00284_peeking-iterator/200705-1.cpp) | 0 ms | 7.7 MB | [100.00%](https://leetcode-cn.com/submissions/detail/84722787/) |  |
+| 287 | 中等 | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [200705-1.cpp](00287_find-the-duplicate-number/200705-1.cpp) | 28 ms | 12.8 MB | [22.99%](https://leetcode-cn.com/submissions/detail/84723325/) |  |
