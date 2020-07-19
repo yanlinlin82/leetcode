@@ -256,3 +256,4 @@
 | 287 | 中等 | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [200705-1.cpp](00287_find-the-duplicate-number/200705-1.cpp) | 28 ms | 12.8 MB | [22.99%](https://leetcode-cn.com/submissions/detail/84723325/) |  |
 | 289 | 中等 | [生命游戏](https://leetcode-cn.com/problems/game-of-life/) | [200711-1.cpp](00289_game-of-life/200711-1.cpp) | 4 ms | 7 MB | [47.73%](https://leetcode-cn.com/submissions/detail/86693681/) |  |
 | 290 | 简单 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | [200711-1.cpp](00290_word-pattern/200711-1.cpp) | 0 ms | 6.5 MB | [100.00%](https://leetcode-cn.com/submissions/detail/86700946/) |  |
+| 292 | 简单 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/) | [200720-1.cpp](00292_nim-game/200720-1.cpp) | 820 ms | 5.7 MB | [8.49%](https://leetcode-cn.com/submissions/detail/89478121/) |  |
