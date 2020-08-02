@@ -259,3 +259,4 @@
 | 292 | 简单 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/) | [200720-1.cpp](00292_nim-game/200720-1.cpp) | 820 ms | 5.7 MB | [8.49%](https://leetcode-cn.com/submissions/detail/89478121/) |  |
 | 295 | 困难 | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | [200720-2.cpp](00295_find-median-from-data-stream/200720-2.cpp) | 436 ms | 41.9 MB | [12.22%](https://leetcode-cn.com/submissions/detail/89479122/) |  |
 | 299 | 简单 | [猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/) | [200802-1.cpp](00299_bulls-and-cows/200802-1.cpp) | 8 ms | 6.7 MB | [59.69%](https://leetcode-cn.com/submissions/detail/94010758/) |  |
+| 300 | 中等 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [200802-1.cpp](00300_longest-increasing-subsequence/200802-1.cpp) | 124 ms | 7.8 MB | [10.13%](https://leetcode-cn.com/submissions/detail/94018631/) |  |
