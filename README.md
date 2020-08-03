@@ -261,3 +261,4 @@
 | 299 | 简单 | [猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/) | [200802-1.cpp](00299_bulls-and-cows/200802-1.cpp) | 8 ms | 6.7 MB | [59.69%](https://leetcode-cn.com/submissions/detail/94010758/) |  |
 | 300 | 中等 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [200802-1.cpp](00300_longest-increasing-subsequence/200802-1.cpp) | 124 ms | 7.8 MB | [10.13%](https://leetcode-cn.com/submissions/detail/94018631/) |  |
 | 303 | 简单 | [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [200803-1.cpp](00303_range-sum-query-immutable/200803-1.cpp) | 340 ms | 17.2 MB | [18.38%](https://leetcode-cn.com/submissions/detail/94041874/) |  |
+| 304 | 中等 | [二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [200803-2.cpp](00304_range-sum-query-2d-immutable/200803-2.cpp) | 40 ms | 14.6 MB | [82.02%](https://leetcode-cn.com/submissions/detail/94322720/) |  |
