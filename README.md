@@ -271,3 +271,4 @@
 | 318 | 中等 | [最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/) | [200827-1.cpp](00318_maximum-product-of-word-lengths/200827-1.cpp) | 624 ms | 33.2 MB | 12.12% | 5.24% | [查看结果](https://leetcode-cn.com/submissions/detail/102312759/) |  |
 | 319 | 中等 | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/) | [200827-2.cpp](00319_bulb-switcher/200827-2.cpp) | 0 ms | 5.9 MB | 100.00% | 85.02% | [查看结果](https://leetcode-cn.com/submissions/detail/102319565/) | 参考了题解 |
 | 322 | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [200915-1.cpp](00322_coin-change/200915-1.cpp) | 92 ms | 13.7 MB | 84.54% | 46.60% | [查看结果](https://leetcode-cn.com/submissions/detail/108387332/) |  |
+| 326 | 简单 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | [200915-1.cpp](00326_power-of-three/200915-1.cpp) | 32 ms | 5.6 MB | 24.60% | 91.67% | [查看结果](https://leetcode-cn.com/submissions/detail/108391896/) |  |
