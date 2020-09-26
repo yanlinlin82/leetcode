@@ -277,3 +277,4 @@
 | 332 | 中等 | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/) | [200919-1.cpp](00332_reconstruct-itinerary/200919-1.cpp) | 52 ms | 13.7 MB | 86.04% | 93.79% | [查看结果](https://leetcode-cn.com/submissions/detail/109399307/) |  |
 | 334 | 中等 | [递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) | [200919-1.cpp](00334_increasing-triplet-subsequence/200919-1.cpp) | 8 ms | 9.5 MB | 90.57% | 74.48% | [查看结果](https://leetcode-cn.com/submissions/detail/109399752/) |  |
 | 337 | 中等 | [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | [200926-2.cpp](00337_house-robber-iii/200926-2.cpp) | 64 ms | 34.8 MB | 8.83% | 5.04% | [查看结果](https://leetcode-cn.com/submissions/detail/111644925/) |  |
+| 338 | 中等 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [200926-1.cpp](00338_counting-bits/200926-1.cpp) | 12 ms | 7.8 MB | 28.24% | 59.79% | [查看结果](https://leetcode-cn.com/submissions/detail/111646831/) |  |
