@@ -279,3 +279,4 @@
 | 337 | 中等 | [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | [200926-2.cpp](00337_house-robber-iii/200926-2.cpp) | 64 ms | 34.8 MB | 8.83% | 5.04% | [查看结果](https://leetcode-cn.com/submissions/detail/111644925/) |  |
 | 338 | 中等 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [200926-1.cpp](00338_counting-bits/200926-1.cpp) | 12 ms | 7.8 MB | 28.24% | 59.79% | [查看结果](https://leetcode-cn.com/submissions/detail/111646831/) |  |
 | 341 | 中等 | [扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | [201005-1.cpp](00341_flatten-nested-list-iterator/201005-1.cpp) | 20 ms | 14.1 MB | 72.94% | 63.90% | [查看结果](https://leetcode-cn.com/submissions/detail/113400670/) |  |
+| 342 | 简单 | [4的幂](https://leetcode-cn.com/problems/power-of-four/) | [201005-1.cpp](00342_power-of-four/201005-1.cpp) | 0 ms | 5.8 MB | 100.00% | 50.77% | [查看结果](https://leetcode-cn.com/submissions/detail/113401274/) |  |
