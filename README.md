@@ -73,7 +73,7 @@
 | 67 | 简单 | [二进制求和](https://leetcode-cn.com/problems/add-binary/) | [200108-1.cpp](00067_add-binary/200108-1.cpp) | 0 ms | 8.7 MB | 100.00% | - | [查看结果](https://leetcode-cn.com/submissions/detail/42668665/) |  |
 | 68 | 困难 | [文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | [200108-1.cpp](00068_text-justification/200108-1.cpp) | 8 ms | 9.1 MB | 22.76% | - | [查看结果](https://leetcode-cn.com/submissions/detail/42775068/) |  |
 | 69 | 简单 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/) | [200116-1.cpp](00069_sqrtx/200116-1.cpp) | 88 ms | 8.2 MB | 6.01% | - | [查看结果](https://leetcode-cn.com/submissions/detail/43665227/) |  |
-| 70 |  简单 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [200116-1.cpp](00070_climbing-stairs/200116-1.cpp) | 0 ms | 8.6 MB | 100.00% | - | [查看结果](https://leetcode-cn.com/submissions/detail/43666892/) |  |
+| 70 | 简单 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [200116-1.cpp](00070_climbing-stairs/200116-1.cpp) | 0 ms | 8.6 MB | 100.00% | - | [查看结果](https://leetcode-cn.com/submissions/detail/43666892/) |  |
 | 71 | 中等 | [简化路径](https://leetcode-cn.com/problems/simplify-path/) | [200116-1.cpp](00071_simplify-path/200116-1.cpp) | 20 ms | 10 MB | 11.13% | - | [查看结果](https://leetcode-cn.com/submissions/detail/43719607/) |  |
 | 72 | 困难 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/) | [200116-1.cpp](00072_edit-distance/200116-1.cpp) | 12 ms | 11.6 MB | 86.41% | - | [查看结果](https://leetcode-cn.com/submissions/detail/43722058/) |  |
 | 73 | 中等 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [200117-1.cpp](00073_set-matrix-zeroes/200117-1.cpp) | 16 ms | 11.5 MB | 100.00% | - | [查看结果](https://leetcode-cn.com/submissions/detail/43757444/) |  |
@@ -280,3 +280,4 @@
 | 338 | 中等 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [200926-1.cpp](00338_counting-bits/200926-1.cpp) | 12 ms | 7.8 MB | 28.24% | 59.79% | [查看结果](https://leetcode-cn.com/submissions/detail/111646831/) |  |
 | 341 | 中等 | [扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | [201005-1.cpp](00341_flatten-nested-list-iterator/201005-1.cpp) | 20 ms | 14.1 MB | 72.94% | 63.90% | [查看结果](https://leetcode-cn.com/submissions/detail/113400670/) |  |
 | 342 | 简单 | [4的幂](https://leetcode-cn.com/problems/power-of-four/) | [201005-1.cpp](00342_power-of-four/201005-1.cpp) | 0 ms | 5.8 MB | 100.00% | 50.77% | [查看结果](https://leetcode-cn.com/submissions/detail/113401274/) |  |
+| 343 | 中等 | [整数拆分](https://leetcode-cn.com/problems/integer-break/) | [201005-2.cpp](00343_integer-break/201005-2.cpp) | 0 ms | 5.7 MB | 100.00% | 97.74% | [查看结果](https://leetcode-cn.com/submissions/detail/113404676/) |  |
