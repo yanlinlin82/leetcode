@@ -281,3 +281,4 @@
 | 341 | 中等 | [扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | [201005-1.cpp](00341_flatten-nested-list-iterator/201005-1.cpp) | 20 ms | 14.1 MB | 72.94% | 63.90% | [查看结果](https://leetcode-cn.com/submissions/detail/113400670/) |  |
 | 342 | 简单 | [4的幂](https://leetcode-cn.com/problems/power-of-four/) | [201005-1.cpp](00342_power-of-four/201005-1.cpp) | 0 ms | 5.8 MB | 100.00% | 50.77% | [查看结果](https://leetcode-cn.com/submissions/detail/113401274/) |  |
 | 343 | 中等 | [整数拆分](https://leetcode-cn.com/problems/integer-break/) | [201005-2.cpp](00343_integer-break/201005-2.cpp) | 0 ms | 5.7 MB | 100.00% | 97.74% | [查看结果](https://leetcode-cn.com/submissions/detail/113404676/) |  |
+| 344 | 简单 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [201011-1.cpp](00344_reverse-string/201011-1.cpp) | 76 ms | 22.9 MB | 8.91% | 28.11% | [查看结果](https://leetcode-cn.com/submissions/detail/114965401/) |  |
