@@ -283,3 +283,4 @@
 | 343 | 中等 | [整数拆分](https://leetcode-cn.com/problems/integer-break/) | [201005-2.cpp](00343_integer-break/201005-2.cpp) | 0 ms | 5.7 MB | 100.00% | 97.74% | [查看结果](https://leetcode-cn.com/submissions/detail/113404676/) |  |
 | 344 | 简单 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [201011-1.cpp](00344_reverse-string/201011-1.cpp) | 76 ms | 22.9 MB | 8.91% | 28.11% | [查看结果](https://leetcode-cn.com/submissions/detail/114965401/) |  |
 | 345 | 简单 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [201011-1.cpp](00345_reverse-vowels-of-a-string/201011-1.cpp) | 8 ms | 7.7 MB | 92.50% | 58.02% | [查看结果](https://leetcode-cn.com/submissions/detail/114967092/) |  |
+| 347 | 中等 | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [201011-1.cpp](00347_top-k-frequent-elements/201011-1.cpp) | 36 ms | 13.6 MB | 84.74% | 86.80% | [查看结果](https://leetcode-cn.com/submissions/detail/115007226/) |  |
