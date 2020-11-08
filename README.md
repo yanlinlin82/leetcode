@@ -291,3 +291,4 @@
 | 365 | 中等 | [水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/) | [201108-2.cpp](00365_water-and-jug-problem/201108-2.cpp) | 0 ms | 6.2 MB | 100.00% | 12.18% | [查看结果](https://leetcode-cn.com/submissions/detail/121927093/) |  |
 | 367 | 简单 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [201108-1.cpp](00367_valid-perfect-square/201108-1.cpp) | 0 ms | 6.2 MB | 100.00% | 5.15% | [查看结果](https://leetcode-cn.com/submissions/detail/121928015/) |  |
 | 371 | 简单 | [两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) | [201108-1.cpp](00371_sum-of-two-integers/201108-1.cpp) | 0 ms | 6.2 MB | 100.00% | 5.10% | [查看结果](https://leetcode-cn.com/submissions/detail/121934354/) |  |
+| 383 | 简单 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | [201108-1.cpp](00383_ransom-note/201108-1.cpp) | 40 ms | 9.2 MB | 55.84% | 5.04% | [查看结果](https://leetcode-cn.com/submissions/detail/121940016/) |  |
