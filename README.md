@@ -290,3 +290,4 @@
 | 355 | 中等 | [设计推特](https://leetcode-cn.com/problems/design-twitter/) | [201108-1.cpp](00355_design-twitter/201108-1.cpp) | 316 ms | 20.2 MB | 9.92% | 61.35% | [查看结果](https://leetcode-cn.com/submissions/detail/121922135/) |  |
 | 365 | 中等 | [水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/) | [201108-2.cpp](00365_water-and-jug-problem/201108-2.cpp) | 0 ms | 6.2 MB | 100.00% | 12.18% | [查看结果](https://leetcode-cn.com/submissions/detail/121927093/) |  |
 | 367 | 简单 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [201108-1.cpp](00367_valid-perfect-square/201108-1.cpp) | 0 ms | 6.2 MB | 100.00% | 5.15% | [查看结果](https://leetcode-cn.com/submissions/detail/121928015/) |  |
+| 371 | 简单 | [两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) | [201108-1.cpp](00371_sum-of-two-integers/201108-1.cpp) | 0 ms | 6.2 MB | 100.00% | 5.10% | [查看结果](https://leetcode-cn.com/submissions/detail/121934354/) |  |
